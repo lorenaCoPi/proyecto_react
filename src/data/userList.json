@@ -1,0 +1,47 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "martirio@gmail.com",
+        "password": "123456",
+        "name": "Marti",
+        "age": 30
+      },
+      {
+        "id": 2,
+        "email": "valeriana@gmail.com",
+        "password": "7891011",
+        "name": "Riana",
+        "age": 32
+      },
+      {
+        "id": 3,
+        "email": "angustias@hotmail.com",
+        "password": "abcdef",
+        "name": "Angus",
+        "age": 38
+      },
+      {
+        "id": 4,
+        "email": "dolores@yahoo.com",
+        "password": "246810",
+        "name": "Dolores",
+        "age": 26
+      },
+      {
+        "id": 5,
+        "email": "socorro@gmail.com",
+        "password": "000000",
+        "name": "Socorro",
+        "age": 57
+      },
+      {
+        "id": 6,
+        "email": "felipa@hotmail.com",
+        "password": "13579",
+        "name": "Feli",
+        "age": 61
+      }
+    ]
+  }
+  

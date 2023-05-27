@@ -1,0 +1,9 @@
+-MINIMO 3 PAGINAS -> home, perfil, login, etc
+-MINIMO 4 COMPONENTES REUTILIZABLES -> Botón, título,
+-CONEXION CON UNA API -> podemos utilizar el ejercicio de Node, o hacer una petición con un fetch a una petición de una API
+-AUTENTICACION EN REACT, HACIENDO LOGIN -> si no tengo la API de node, podemos hacer un registro o login con datos fake dentro del React // REGISTER OPCIONAL
+-FORMULARIOS CONTROLADOS
+-MINIMO 1 ESTADOS USANDO USECONTEXT
+-DEFINIR ALGÚN RUTA PRIVADA (PARA ESTO NECESITAMOS EL LOGIN)
+
+Buena estructura de carpetas
